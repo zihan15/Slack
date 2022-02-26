@@ -1,7 +1,8 @@
-# Slack
-In the face of a global pandemic, more and more people have to adapt to the work/study from home lifestyle. With an increase in prolonged hours sitting in front of a desk, it is more important than ever for us to detect bad sitting posture and correct it before it results in long-term health implications. As such our team, NTUC Finest hope to solve this problem.
+## Slack
 
-We predict proper posture with the use of a camera, TensorFlow and python and implemented on our application - Slack which is powered by Swift.
+In the face of a global pandemic, more and more people have to adapt to the work/study from home lifestyle. With an increase in prolonged hours sitting in front of a desk, it is more important than ever for us to detect bad sitting posture and correct it before it results in long-term health implications. As such our team, **NTUC Finest** hope to solve this problem.
+
+We predict proper posture with the use of a camera, `TensorFlow` and `Python` and implemented on our application - `Slack` which is powered by Swift.
 
 Running Run me.ipynb, convert the first two rows from markdown to code.
 Under action_01, you can add your own datasets for good postures.
