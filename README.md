@@ -21,6 +21,7 @@ Using both `TensorFlow` and `Python`, we came up with an algorithm to detect bad
 
 **How to Use the App:**
 Our Slack app powered by Swift will features a Pomodoro Timer as well as a Posture Detector
+> - Download the "IEEE Hackathon.zip", unzip the zip file and open the "IEEE Hackathon.xcodeproj".
 > - Select how long you wish to study/work for under the "Time" section.
 > - Start the countdown of the timer by pressing the white triangle.
 > - Pomodoro Timer can be paused by pressing the "Pause" button.
