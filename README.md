@@ -1,7 +1,7 @@
 ## Slack
 
 **Team Members:**
-- Li Zi Han
+- Li Zihan
 - Lim Kang Wei
 - Zhang Jing Wen
 - Cai Du Yi
